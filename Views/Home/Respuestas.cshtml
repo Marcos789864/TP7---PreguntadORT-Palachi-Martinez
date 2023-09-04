@@ -1,0 +1,49 @@
+@if (ViewBag.correcta = true)
+{
+    <div class=" position-absolute top-50 start-50 translate-middle ">
+    <div class="mx-auto p-2 bg-light rounded opacity-75 w-50">
+        <div class="w-100 p-3 bg-primary rounded opacity-100">
+             <img src="img/png-clipart-finland-faq-theme-correct-miscellaneous-hand (1).png" class="img-fluid w-auto h-auto ">
+        </div>
+    </div>     
+</div>    
+
+
+
+<div class="position-absolute bottom-0 start-50 translate-middle-x" >
+    <div class="grid gap-3">
+      <div class="p-2 g-col-6">
+        <div class="d-flex justify-content-center">
+        <figure class="figure bg-primary text-white"  style="width: 250px; height: 35px;">
+            <p class="text-center">  <a class="link-dark link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" href='@Url.Action("Jugar")'> Siguiente</a> </p>
+            <p class="text-center">  <a class="link-dark link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" href='@Url.Action("Index")'> Volver</a> </p>
+        </figure>
+      </div>
+    </div>
+</div>
+</div>
+}
+else
+{
+
+    <div class=" position-absolute top-50 start-50 translate-middle ">
+    <div class="mx-auto p-2 bg-light rounded opacity-75 w-50">
+        <div class="w-100 p-3 bg-primary rounded opacity-100">
+             <img src="img/wrong.png" class="img-fluid width: 289px; height:229px; ">
+        </div>
+    </div>     
+</div>    
+
+<div class="position-absolute bottom-0 start-50 translate-middle-x" >
+    <div class="grid gap-3">
+      <div class="p-2 g-col-6">
+        <div class="d-flex justify-content-center">
+        <figure class="figure bg-primary text-white"  style="width: 250px; height: 35px;">
+           <p class="text-center">  <a class="link-dark link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" href='@Url.Action("Jugar")'> Siguiente</a> </p>
+            <p class="text-center">  <a class="link-dark link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" href='@Url.Action("Index")'> Volver</a> </p>
+        </figure>
+      </div>
+    </div>
+    </div>
+</div>
+}

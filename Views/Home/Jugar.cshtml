@@ -1,0 +1,39 @@
+
+
+
+          <p class="text-center"> @ViewBag.Pregunta</p>
+          
+
+        <div class="d-flex justify-content-center"> 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTRd4y5bPDsRP6iD1GBYevm-IhW_IyisGfNJp7GJERFliy-d8YHp93WL5usUZ0pkIG-8k&usqp=CAU">
+    </div>
+
+
+
+
+        <form action='@Url.Action("VerificarRespuesta")' method="post">
+
+@for (int i = 0; i < @ViewBag.respuestas.Count; i++)
+{
+  <input type="hidden" name = "idPregunta" value = "@ViewBag.respuestas[i].idPregunta">
+    <input type="radio" class="btn-check" name="idRespuesta" id="opt@(i)" autocomplete="off" value = "@ViewBag.respuestas[i].idRespuestas">
+    <div class="fixed-bottom">
+    <div class="container text-center">
+        <div class="row g-2">
+          <div class="col-6">
+            <div class="p-3 bg-danger-subtle" style="margin-bottom: 20px;"> <label class="btn btn-outline-secondary" for="opt@(i)">@ViewBag.respuestas[i].Contenido</label></div>
+          </div>
+        </div>
+    </div>
+  </div>
+  <input type="submit" class="btn btn-secondary" role="button" style=" width: 10em" value="Listo"><br>
+}
+  </form>
+
+
+<a class="btn btn-primary" href='@Url.Action("Index")' role="button" style=" width: 5em">Volver</a>
+<h4>Usuario: @ViewBag.Nombre</h4>
+        <h4>Puntos: @ViewBag.Puntaje</h4>
+
+
+</div>

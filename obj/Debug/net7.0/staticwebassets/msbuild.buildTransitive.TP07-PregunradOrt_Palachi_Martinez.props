@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TP07-PregunradOrt_Palachi_Martinez.props" />
+</Project>

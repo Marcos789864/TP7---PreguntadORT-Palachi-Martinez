@@ -1,0 +1,35 @@
+
+
+
+          <p class="text-center"> @ViewBag.Pregunta</p>
+          
+
+        <div class="d-flex justify-content-center"> 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTRd4y5bPDsRP6iD1GBYevm-IhW_IyisGfNJp7GJERFliy-d8YHp93WL5usUZ0pkIG-8k&usqp=CAU">
+    </div>
+
+
+
+
+<form action='@Url.Action("Comenzar")' method = "get" > 
+@foreach(Respuestas r in ViewBag.respuestas)
+{
+
+  <input type="hidden" name="idPregunta" value="@ViewBag.Pregunta.idPregunta">
+<input type="hidden" name="idRespuesta" value="@ViewBag.Respuesta.idRespuesta">
+  <div class="fixed-bottom">
+      <div class="container text-center">
+        <div class="row g-2">
+          <div class="col-6">
+            <div class="p-3 bg-danger-subtle" style="margin-bottom: 20px;"> <input type="submit" value="@r.Correcta">@r</div>
+          </div>
+        </div>
+      </div>
+  </div>
+
+}
+</form>
+
+
+
+</div>

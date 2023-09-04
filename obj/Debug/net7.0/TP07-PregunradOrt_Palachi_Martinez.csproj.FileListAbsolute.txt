@@ -1,0 +1,195 @@
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.csproj.AssemblyReference.cache
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.GeneratedMSBuildEditorConfig.editorconfig
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.AssemblyInfoInputs.cache
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.AssemblyInfo.cs
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.csproj.CoreCompileInputs.cache
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.MvcApplicationPartsAssemblyInfo.cache
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.RazorAssemblyInfo.cache
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.RazorAssemblyInfo.cs
+Z:\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\appsettings.Development.json
+Z:\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\appsettings.json
+Z:\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.staticwebassets.runtime.json
+Z:\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.exe
+Z:\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.deps.json
+Z:\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.runtimeconfig.json
+Z:\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.dll
+Z:\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.pdb
+Z:\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\Dapper.dll
+Z:\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\System.Data.SqlClient.dll
+Z:\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+Z:\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+Z:\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+Z:\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\staticwebassets\msbuild.TP07-PregunradOrt_Palachi_Martinez.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\staticwebassets\msbuild.build.TP07-PregunradOrt_Palachi_Martinez.props
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TP07-PregunradOrt_Palachi_Martinez.props
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TP07-PregunradOrt_Palachi_Martinez.props
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\staticwebassets.pack.json
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\staticwebassets.build.json
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\staticwebassets.development.json
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\scopedcss\bundle\TP07-PregunradOrt_Palachi_Martinez.styles.css
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\scopedcss\projectbundle\TP07-PregunradOrt_Palachi_Martinez.bundle.scp.css
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.csproj.CopyComplete
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.dll
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\refint\TP07-PregunradOrt_Palachi_Martinez.dll
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.pdb
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.genruntimeconfig.cache
+Z:\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\ref\TP07-PregunradOrt_Palachi_Martinez.dll
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\appsettings.json
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.staticwebassets.runtime.json
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.exe
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.deps.json
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.runtimeconfig.json
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.dll
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.pdb
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\Dapper.dll
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.csproj.AssemblyReference.cache
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.AssemblyInfoInputs.cache
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.AssemblyInfo.cs
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.csproj.CoreCompileInputs.cache
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.RazorAssemblyInfo.cache
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.RazorAssemblyInfo.cs
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\staticwebassets\msbuild.TP07-PregunradOrt_Palachi_Martinez.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\staticwebassets\msbuild.build.TP07-PregunradOrt_Palachi_Martinez.props
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TP07-PregunradOrt_Palachi_Martinez.props
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TP07-PregunradOrt_Palachi_Martinez.props
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\scopedcss\bundle\TP07-PregunradOrt_Palachi_Martinez.styles.css
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\scopedcss\projectbundle\TP07-PregunradOrt_Palachi_Martinez.bundle.scp.css
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.csproj.CopyComplete
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.dll
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\refint\TP07-PregunradOrt_Palachi_Martinez.dll
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.pdb
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.genruntimeconfig.cache
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez\obj\Debug\net7.0\ref\TP07-PregunradOrt_Palachi_Martinez.dll
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\bin\Debug\net7.0\appsettings.json
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.staticwebassets.runtime.json
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.exe
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.deps.json
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.runtimeconfig.json
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.dll
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.pdb
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\bin\Debug\net7.0\Dapper.dll
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.csproj.AssemblyReference.cache
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.AssemblyInfoInputs.cache
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.AssemblyInfo.cs
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.csproj.CoreCompileInputs.cache
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.RazorAssemblyInfo.cache
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.RazorAssemblyInfo.cs
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\staticwebassets\msbuild.TP07-PregunradOrt_Palachi_Martinez.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\staticwebassets\msbuild.build.TP07-PregunradOrt_Palachi_Martinez.props
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TP07-PregunradOrt_Palachi_Martinez.props
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TP07-PregunradOrt_Palachi_Martinez.props
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\scopedcss\bundle\TP07-PregunradOrt_Palachi_Martinez.styles.css
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\scopedcss\projectbundle\TP07-PregunradOrt_Palachi_Martinez.bundle.scp.css
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.csproj.CopyComplete
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.dll
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\refint\TP07-PregunradOrt_Palachi_Martinez.dll
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.pdb
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.genruntimeconfig.cache
+C:\Users\47696158\Desktop\TP07-PregunradOrt_Palachi_Martinez 1\obj\Debug\net7.0\ref\TP07-PregunradOrt_Palachi_Martinez.dll
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\appsettings.json
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.staticwebassets.runtime.json
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.exe
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.deps.json
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.runtimeconfig.json
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.dll
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.pdb
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\Dapper.dll
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.RazorAssemblyInfo.cache
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.RazorAssemblyInfo.cs
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\staticwebassets\msbuild.TP07-PregunradOrt_Palachi_Martinez.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\staticwebassets\msbuild.build.TP07-PregunradOrt_Palachi_Martinez.props
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TP07-PregunradOrt_Palachi_Martinez.props
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TP07-PregunradOrt_Palachi_Martinez.props
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\scopedcss\bundle\TP07-PregunradOrt_Palachi_Martinez.styles.css
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\scopedcss\projectbundle\TP07-PregunradOrt_Palachi_Martinez.bundle.scp.css
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.csproj.CopyComplete
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.dll
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\refint\TP07-PregunradOrt_Palachi_Martinez.dll
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.pdb
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\ref\TP07-PregunradOrt_Palachi_Martinez.dll
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\appsettings.json
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.staticwebassets.runtime.json
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.exe
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.deps.json
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.runtimeconfig.json
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.dll
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.pdb
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\Dapper.dll
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.csproj.AssemblyReference.cache
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.AssemblyInfoInputs.cache
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.AssemblyInfo.cs
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.csproj.CoreCompileInputs.cache
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.RazorAssemblyInfo.cache
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.RazorAssemblyInfo.cs
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\staticwebassets\msbuild.TP07-PregunradOrt_Palachi_Martinez.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\staticwebassets\msbuild.build.TP07-PregunradOrt_Palachi_Martinez.props
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TP07-PregunradOrt_Palachi_Martinez.props
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TP07-PregunradOrt_Palachi_Martinez.props
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\scopedcss\bundle\TP07-PregunradOrt_Palachi_Martinez.styles.css
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\scopedcss\projectbundle\TP07-PregunradOrt_Palachi_Martinez.bundle.scp.css
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.csproj.CopyComplete
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.dll
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\refint\TP07-PregunradOrt_Palachi_Martinez.dll
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.pdb
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\TP07-PregunradOrt_Palachi_Martinez.genruntimeconfig.cache
+C:\Users\47807324\Desktop\TP07-PregunradOrt_Palachi_Martinez 2\obj\Debug\net7.0\ref\TP07-PregunradOrt_Palachi_Martinez.dll
